@@ -6,7 +6,6 @@ import IssuesSummary from './components/IssueSummary';
 import FilterReplacements from './components/FilterReplacements';
 import UsersChart from './components/UsersChart';
 import CustomerList from './components/CustomerLists';
-import UsersPlan from './components/UserPlan';
 
 interface CustomerDetailsPageProps {
     handleUserDetail(): void
